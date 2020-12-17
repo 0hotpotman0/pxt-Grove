@@ -139,7 +139,7 @@ namespace Grove {
     * Get the distance from Grove-Ultrasonic Sensor, the measuring range is between 2-350cm
     */
     //% blockId=grove_ultrasonic_v2
-    //% block="Ultrasonic Sensor for V2 $groveport|: distance in $Unit"
+    //% block="(V2)Ultrasonic Sensor $groveport|: distance in $Unit"
     //% group="Sensor"
     //% weight=78
     export function grove_ultrasonic_v2(groveport: GrovePin, Unit: DistanceUnit): number {
