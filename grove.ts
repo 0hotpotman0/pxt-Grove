@@ -165,7 +165,6 @@ namespace Grove {
 
         return distance;
     }
-}
     /**
     * Get the distance from Grove-Ultrasonic Sensor, the measuring range is between 2-350cm
     */
